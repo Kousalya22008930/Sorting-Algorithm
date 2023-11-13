@@ -18,8 +18,8 @@ To write a program to perform selection sort and insertion sort using python pro
 4.	Break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
-# Developed by: KOUSALYA A.
-# RegisterNumber: 212222230068
+#### Developed by: KOUSALYA A.
+#### RegisterNumber: 212222230068
 i)	#Selection Sort
 ```
 def selection_sort(nums):
@@ -50,9 +50,9 @@ print(list_of_nums)
 ```
 
 ## Output:
-Selection sort:
+#### Selection sort:
 ![image](https://github.com/Kousalya22008930/Sorting-Algorithm/assets/119389108/cf8d1b33-ba94-4d53-9c8d-f372025be23d)
-Insertion sort:
+#### Insertion sort:
 ![image](https://github.com/Kousalya22008930/Sorting-Algorithm/assets/119389108/e0fef4f4-0b5b-427f-b3e7-837e0614a3b9)
 
 
